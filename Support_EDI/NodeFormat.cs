@@ -12,6 +12,7 @@ namespace Support_EDI
         /// Writer: Hai.Vu
         /// Purpose: Write Group for Output
         /// </summary>
+        /// Test Githus
         public static StringBuilder genGroupOutPut(string name, string loop, int xChildCount, int xActive)
         {
             try
